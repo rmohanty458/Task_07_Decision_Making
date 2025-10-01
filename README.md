@@ -1,12 +1,8 @@
----
-
 ## 📊 Project Overview
 - **Dataset:** 2019 NCAA Men’s Basketball statistics (team-level metrics: ADJOE, ADJDE, Wins, WAB).  
 - **Objective:** Provide evidence-based, ethically informed recommendations for coaching staff on offensive and defensive strategies.  
 - **Stakeholders:** Coaches, athletic directors, and recruitment staff.  
 - **Key Finding:** Defensive efficiency correlates more strongly with wins than offensive efficiency.  
-
----
 
 ## 📂 Repository Contents
 - **stakeholder_report.md** → Final decision-making report with recommendations, ethical analysis, and figures.  
